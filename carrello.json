@@ -1,0 +1,56 @@
+{
+  "header": {
+    "nav": [
+      { "name": "ACCEDI", "link": "#" },
+      { "name": "INDIETRO", "link": "prodotto.html" },
+      { "name": "REGISTRATI", "link": "#" }
+    ],
+    "logo": "Screenshot%202025-02-04%20083718.png",
+    "searchPlaceholder": "Cerca...",
+    "searchButton": "🔍"
+  },
+  "cart": {
+    "title": "Carrello",
+    "items": [
+      {
+        "name": "Damn - Kendrick Lamar",
+        "price": "44.99",
+        "img": "https://i1.wp.com/www.lindiependente.it/wp-content/uploads/2017/05/kendrick-lamar-vinile-damn.jpg?fit=1024%2C684&ssl=1"
+      }
+    ],
+    "discount": {
+      "title": "Buono Sconto",
+      "description": "Inserisci il codice <strong>SAVE10</strong> al momento del pagamento per ottenere uno sconto del 10% sul tuo ordine!",
+      "inputPlaceholder": "Inserisci codice coupon",
+      "buttonText": "Applica Coupon",
+      "validCode": "SAVE10",
+      "discountPercentage": 10
+    },
+    "summary": {
+      "totalLabel": "Totale:",
+      "checkoutButton": "Procedi al pagamento"
+    },
+    "cartCountText": "Carrello"
+  },
+  "bundle": {
+    "title": "Offerte Bundle",
+    "bundles": [
+      {
+        "items": [
+          {
+            "img": "https://www.disclan.com/150738-home_default/damn-lamar-kendrick-lp.jpg",
+            "alt": "DAMN. - Kendrick Lamar"
+          },
+          {
+            "img": "https://www.disclan.com/160944-home_default/all-eyez-on-me-2pac-lp.jpg",
+            "alt": "All Eyez On Me - 2Pac"
+          }
+        ],
+        "price": "54.98",
+        "discount": "Risparmi €10",
+        "buttonText": "Aggiungi al Carrello",
+        "id": "bundle1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nav": ["ACCEDI", "ESCI", "REGISTRATI"],
+    "searchPlaceholder": "Cerca...",
+    "searchButton": "🔍"
+  },
+  "carousel": {
+    "description": "Un piccolo assaggio dei nostri prodotti",
+    "images": [
+      {
+        "src": "https://www.disclan.com/164321-large_default/house-of-balloons-10th-anniversary-weeknd-the-lp.jpg",
+        "alt": "Copertina Album Make It Fit"
+      },
+      {
+        "src": "https://www.disclan.com/157466-large_default/igor-tyler-the-creator-lp.jpg",
+        "alt": "Album 1"
+      },
+      {
+        "src": "https://www.disclan.com/158975-large_default/dawn-fm-weeknd-the-cd.jpg",
+        "alt": "Album 2"
+      },
+      {
+        "src": "https://www.disclan.com/162611-large_default/lamb-as-effigy-.jpg",
+        "alt": "Album 3"
+      }
+    ]
+  },
+  "products": [
+    {
+      "name": "DAMN. - Kendrick Lamar",
+      "price": "€29.99",
+      "image": "https://www.disclan.com/150738-home_default/damn-lamar-kendrick-lp.jpg",
+      "link": "prodotto.html"
+    },
+    {
+      "name": "All Eyez On Me - 2Pac",
+      "price": "€34.99",
+      "image": "https://www.disclan.com/160944-home_default/all-eyez-on-me-2pac-lp.jpg"
+    },
+    {
+      "name": "Effigy - Lamb As",
+      "price": "€24.99",
+      "image": "https://www.disclan.com/162611-home_default/lamb-as-effigy-.jpg"
+    },
+    {
+      "name": "Madra - Indie Exclusive",
+      "price": "€22.99",
+      "image": "https://www.disclan.com/163550-home_default/madra-indie-exclusive-green-vinyl.jpg"
+    },
+    {
+      "name": "The Razors Edge - AC/DC",
+      "price": "€39.99",
+      "image": "https://www.disclan.com/163490-home_default/the-razors-edge-lp-colore-oro-ac-dc-lp.jpg"
+    },
+    {
+      "name": "Where Is My Utopia - Indie Exclusive",
+      "price": "€26.99",
+      "image": "https://www.disclan.com/163445-home_default/where-is-my-utopia-colored-vinyl-indie-exclusive-ltd-ed.jpg"
+    },
+    {
+      "name": "Lives Outgrown - Deluxe",
+      "price": "€28.99",
+      "image": "https://www.disclan.com/163881-home_default/lives-outgrown-deluxe-indie-only.jpg"
+    },
+    {
+      "name": "For Those About to Rock - AC/DC",
+      "price": "€38.99",
+      "image": "https://www.disclan.com/163488-home_default/for-those-about-to-rock-we-salute-you-lp-colore-oro-ac-dc-lp.jpg"
+    },
+    {
+      "name": "Who Made Who - AC/DC",
+      "price": "€37.99",
+      "image": "https://www.disclan.com/163491-home_default/who-made-who-lp-colore-oro-ac-dc-lp.jpg"
+    }
+  ],
+  "footer": {
+    "text": "&copy; 2025 Disclan. Tutti i diritti riservati."
+  }
+}
