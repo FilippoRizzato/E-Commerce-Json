@@ -1,0 +1,37 @@
+{
+  "header": {
+    "nav": {
+      "home": "HOME",
+      "cd": "CD",
+      "vinyl": "VINILI"
+    },
+    "searchPlaceholder": "Cerca..."
+  },
+  "productDetails": {
+    "title": "Product Details",
+    "album": {
+      "name": "Damn - Kendrick Lamar",
+      "price": "44,99 €",
+      "availability": "Non disponibile",
+      "formats": [
+        {"value": "cd", "label": "CD"},
+        {"value": "vinyl", "label": "Vinile"},
+        {"value": "digital", "label": "Digitale"}
+      ],
+      "versions": [
+        {"value": "standard", "label": "Standard"},
+        {"value": "deluxe", "label": "Deluxe"},
+        {"value": "collector", "label": "Collector's Edition"}
+      ]
+    },
+    "description": {
+      "text": "La superstar dell'hip-hop KENDRICK LAMAR fa la Storia con il suo nuovo album DAMN., #1 in 50 Paesi sulle piattaforme digitali, già disponibile in CD fisico e da oggi anche in Doppio Vinile. DAMN. è una vera e propria bomba: basti pensare che le collaborazioni contenute in questo album sono con artisti del calibro di U2 e Rihanna! Il primo singolo estratto da DAMN. HUMBLE, un brano potentissimo prodotto da Mike Will Made-It (Rihanna, Miley Cyrus, Lil Wayne e Beyoncé), il video porta le firme illustri di Dave Meyers (che ha lavorato con artisti come Notorius B.I.G uno dei miti di KENDRICK, Pink, Britney Spears, Shakira) e dei Little Homies (duo composto da Dave Free e KENDRICK LAMAR). Nel video troviamo un LAMAR versione Papa e immagini ispirate a L'ultima cena di Leonardo da Vinci dove al posto degli apostoli c'è una band rap in occhiali da sole.",
+      "artist": "Lamar Kendrick",
+      "reference": "0602557618280",
+      "stock": "1 Articolo"
+    }
+  },
+  "footer": {
+    "text": "© 2025 Negozio di Dischi. Tutti i diritti riservati."
+  }
+}

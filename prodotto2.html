@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Aggiungi qui eventuali stili */
+    </style>
+</head>
+<body>
+<header>
+    <div class="header-content">
+        <nav class="nav">
+            <a href="menu.html" id="nav-home"></a>
+            <a href="#" id="nav-cd"></a>
+            <a href="#" id="nav-vinyl"></a>
+        </nav>
+        <div class="logo text-center">
+            <img src="Screenshot%202025-02-04%20083718.png" alt="Logo">
+        </div>
+        <div class="search-bar">
+            <input type="text" id="search-input">
+            <button type="button">🔍</button>
+        </div>
+    </div>
+</header>
+<div class="container">
+    <div class="sidebar">
+        <ul>
+            <li>Nu Metal</li>
+            <li>Metalcore</li>
+            <li>Heavy Metal</li>
+            <li>Prog Rock</li>
+            <li>Hard Rock</li>
+            <li>Blues Rock</li>
+            <li>Alternative Rock</li>
+            <li>Jazz</li>
+            <li>Indie Rock</li>
+            <li>Folk</li>
+            <li>Soundtrack</li>
+        </ul>
+    </div>
+
+    <div class="main-content">
+        <div class="product-details">
+            <h1 id="product-title"></h1>
+            <div class="slider-container">
+                <div class="slider">
+                    <img src="https://i1.wp.com/www.lindiependente.it/wp-content/uploads/2017/05/kendrick-lamar-vinile-damn.jpg?fit=1024%2C684&ssl=1" alt="DAMN Album Cover 1">
+                    <img src="s-l1200.jpg" alt="DAMN Album Cover 2">
+                    <img src="damn-kendrick-lamar-poster-10-carl-williams.jpg" alt="DAMN Album Cover 3">
+                    <img src="images.jpg" alt="DAMN Album Cover 4">
+                    <img src="images%20(1).jpg" alt="DAMN Album Cover 5">
+                </div>
+                <button class="prev">⟨</button>
+                <button class="next">⟩</button>
+            </div>
+
+            <div class="product-info">
+                <h2 id="album-name"></h2>
+                <p><strong>Price: </strong><span id="album-price"></span> <span>Tasse incluse</span></p>
+                <p><strong>Availability: </strong><span id="album-availability"></span></p>
+                <p>
+                    <strong>Formats:</strong>
+                    <select id="formats-select"></select>
+                </p>
+                <p>
+                    <strong>Version:</strong>
+                    <select id="versions-select"></select>
+                </p>
+
+                <button onclick="location.href='prodotto.html'">Torna indietro</button>
+            </div>
+        </div>
+        <div class="description">
+            <h2>Descrizione</h2>
+            <p id="description-text"></p>
+            <hr>
+            <p>
+                <strong>Artista:</strong> <span id="artist-name"></span>
+                <br>
+                <strong>Riferimento:</strong> <span id="reference-code"></span>
+                <br>
+                <strong>In magazzino:</strong> <span id="stock-info"></span>
+            </p>
+            <hr>
+            <button onclick="location.href='prodotto.html'">Torna Indietro</button>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <span id="footer-text"></span>
+</footer>
+
+<script src="prodotto2.js"></script>
+
+</body>
+</html>
